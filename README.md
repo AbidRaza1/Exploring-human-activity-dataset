@@ -1,3 +1,4 @@
-# Reproducible-Research---Project-1
+# Exploring-human-activity-dataset
 
-## Please visit https://rpubs.com/AbidRaza/785597 for complete file.
+The goal of the project is to explore human activity dataset recored by Samsung Galaxy S. The insights will help identify the patterns for human health improvement. Also, we have attempted to present the finding in a reproducible manner.
+
